@@ -1,56 +1,69 @@
-<h1>Coffee Sales Visualizer</h1>
+# Coffee Business Sales Analysis & Dashboard Visualization
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Recommendations](#recommendations)
+
+### Project Overview
+---
+
+This data analysis project aims to provide insights into the sales performance of an international coffee company. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+
+![Dashboard](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
 
 
-<h2>Description</h2>
-This project consists of gathering data, transforming it, and then using pivot tables and pivot charts to build an interactive coffee sales dashboard.
-<br />
+### Data Sources
+
+Sales Data: The primary dataset used for this analysis is the "coffeeOrdersData.xlsx" file, containing detailed information about each sale made by the company.
+
+### Tools
+
+- Excel - Data cleaning, formatting, and building the dashboard
 
 
-<h2>Programs Used</h2>
+### Data Cleaning/Preparation
 
-- <b>Excel</b> 
+In the initial data preparation phase, we performed the following tasks:
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
 
-<h2>Environments Used </h2>
+### Exploratory Data Analysis
 
-- <b>Mac OS Ventura</b> 
+EDA involved exploring the sales data to answer key questions, such as:
 
-<h2>Project walk-through:</h2>
+- What is the overall sales trend?
+- Which products are top sellers?
+- What countries have the highest sales?
+- Who are the top customers?
+- What are the peak sales periods?
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+### Results/Findings
+
+The analysis results are summarized as follows:
+1. The company's sales have been steady over the past 3 years, with noticeable peaks during the Spring season.
+2. Medium roast coffee is the best-performing roast type across all coffee blends regarding sales revenue.
+3. The United States significantly outperforms the UK and Ireland regarding sales revenue.
+4. Loyalty members spend more on coffee on average than non-members.
+5. Non-member customers still account for more than 50% of total sales revenue globally. 
+
+### Recommendations
+
+Based on the analysis, we recommend the following actions:
+- Invest in marketing and promotions during peak sales seasons to maximize revenue.
+- Focus on expanding and promoting medium roast coffee blends.
+- Implement a membership marketing strategy or offer seasonal promotions to recruit new loyalty members.
+- Implement a customer segmentation strategy to target high-LTV customers effectively.
+
+### Limitations
+
+The source data only covers the years 2019-2021. Current data is needed to assess the company's performance as of 2024. The dashboard does not provide total sales revenue by coffee blend. Timeline visualization is blotchy, due to certain coffee blends not being purchased for longer periods of the year.
+
+### References
+
+1. [Learn Xlookup In Excel Along with Examples](https://www.simplilearn.com/tutorials/excel-tutorial/xlookup-in-excel)
+2. [Youtube - Mo Chen](https://www.youtube.com/channel/UCDybamfye5An6p-j1t2YMsg)
+
