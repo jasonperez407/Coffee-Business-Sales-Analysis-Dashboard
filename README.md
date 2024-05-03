@@ -11,7 +11,7 @@
 
 This data analysis project aims to provide insights into the sales performance of an international coffee company. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![Dashboard](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
+![Dashboard](https://github.com/jasonperez407/Coffee-Business-Sales-Analysis-Dashboard/blob/main/coffeeDashboard.jpeg)
 
 
 ### Data Sources
