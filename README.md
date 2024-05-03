@@ -12,7 +12,7 @@ This project consists of gathering data, transforming it, and then using pivot t
 
 <h2>Environments Used </h2>
 
-- <b>Mac OS Ventura</b> (21H2)
+- <b>Mac OS Ventura</b> 
 
 <h2>Project walk-through:</h2>
 
